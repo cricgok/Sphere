@@ -1,0 +1,74 @@
+.settings-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .settings-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .settings-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .settings-section h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .settings-section p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .settings-section label {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .settings-section label strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .settings-save-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .settings-save-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .settings-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .settings-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .settings-section ul li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .settings-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
